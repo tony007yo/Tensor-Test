@@ -1,0 +1,11 @@
+*.pyc
+*.user
+*.suo
+*.vs
+*.cache
+*.coverage
+*.stat
+*.vscode
+
+__pycache__
+env
